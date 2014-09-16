@@ -9,4 +9,3 @@ describe "My search page" do
     page.text.must_include "www.cnn.com"
   end
 end
-

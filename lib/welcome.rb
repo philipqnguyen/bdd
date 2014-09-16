@@ -1,3 +1,4 @@
+# simple ruby welcome class
 class Welcome
   attr_accessor :message
 
